@@ -178,3 +178,6 @@ $RECYCLE.BIN/
 .idea/**/dictionaries
 .idea/**/shelf
 .idea/
+
+# Project Dataset
+PyTorch/data/*
